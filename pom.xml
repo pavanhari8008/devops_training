@@ -1,7 +1,7 @@
 
 <project>
 
-<modelversion>4.0.0</modelversion>
+<modelversion>5.0.0</modelversion>
 
 <groupId>com.amazon</groupId>
 <artifactId>amazon</artifactId>
