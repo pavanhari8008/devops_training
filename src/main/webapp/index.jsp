@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2> LEARN DEVOPS AND GET JOB-in IN SIX MONTHS</h2>
+<h2> LEARN DEVOPS AND GET JOB-in IN 3 MONTHS</h2>
 </body>
 </html>
 
